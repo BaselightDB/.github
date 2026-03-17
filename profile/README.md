@@ -1,6 +1,7 @@
 ## Fancy seeing you here 👋
-
-<img width="800" height="320" alt="banner-baselight" src="https://github.com/user-attachments/assets/44f0d2cf-9272-4ea3-b681-9a19c4a4f608" />
+<p align="center">
+  <img width="800" height="320" alt="banner-baselight" src="https://github.com/user-attachments/assets/44f0d2cf-9272-4ea3-b681-9a19c4a4f608" />
+</p>
 
 **Baselight** is the unified data platform for humans and AI. We host thousands of high-quality, structured datasets — spanning finance, demographics, climate, sports, healthcare, and more — all queryable with SQL in a single workspace.
 
